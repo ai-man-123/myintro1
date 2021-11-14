@@ -35,9 +35,6 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-a {
-color: white;
-}
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
